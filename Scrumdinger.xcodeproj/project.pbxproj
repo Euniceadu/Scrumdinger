@@ -75,10 +75,10 @@
 		2377DE362CEF68F100562AB3 = {
 			isa = PBXGroup;
 			children = (
-				2377DE412CEF68F100562AB3 /* Scrumdinger */,
 				2377DE522CEF68F300562AB3 /* ScrumdingerTests */,
 				2377DE5C2CEF68F300562AB3 /* ScrumdingerUITests */,
 				2377DE402CEF68F100562AB3 /* Products */,
+				2377DE412CEF68F100562AB3 /* Scrumdinger */,
 			);
 			sourceTree = "<group>";
 		};
